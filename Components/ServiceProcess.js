@@ -58,7 +58,7 @@ function ServiceProcess() {
         <div className={style.SubTitle}>
           <h3 className={style.Title}> مراجعه کارشناس و اعلام هزینه </h3>
           <div>
-            <h5>دستگاه شما توسط کارشناس بازدید و ایراد و هزینه اعلام می شود</h5>
+            <h5>دستگاه شما توسط کارشناس بازدید ، ایراد و هزینه اعلام می شود</h5>
           </div>
         </div>
       </div>
